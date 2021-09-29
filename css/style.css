@@ -10,12 +10,14 @@ body {
   display: flex;
   height: 100vh;
   /* width: 100%; */
-  /* background-color: red; */
+  background-color: black;
   justify-content: center;
   align-items: center;
 }
+
 form {
   display: flex;
+  background-color: #ffdada;
   /* align-items: center; */
   flex-direction: column;
   justify-content: center;
