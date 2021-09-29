@@ -46,7 +46,7 @@ form div {
     margin-bottom: 15px;
 }
 input:focus {
-    border: ;
+    border: 2px solid #f2796e;
 }
 form div i {
     position: absolute;
